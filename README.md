@@ -12,7 +12,7 @@ Este proyecto es un sistema diseñado para administrar los registros de marcas, 
 
 ##### Vista Previa del Código Desarrollado:
 
-**Pantalla N° 1**
+######Pantalla N° 1
 
 ![](screenshots/pantalla1.png)
 
