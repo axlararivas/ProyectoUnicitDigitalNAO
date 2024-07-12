@@ -22,6 +22,25 @@ Este proyecto es un sistema diseñado para administrar los registros de marcas, 
 ![](screenshots/pantalla2.png)
 
 
+###### Pantalla N° 3
+
+![](screenshots/pantalla3.png)
+
+
+###### Pantalla N° 4
+
+![](screenshots/pantalla4.png)
+
+
+###### Pantalla N° 5
+
+![](screenshots/pantalla5.png)
+
+###### Pantalla N° 6
+
+![](screenshots/pantalla6.png)
+
+
 #### Módulos del Sistema:
 ```
 Registro de Marcas
